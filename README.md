@@ -32,3 +32,7 @@ There are certain pre-requisites that need to be met before we start working wit
     pip3 install djangorestframework
     
 Now we have successfully installed Django (configured with the rest framework as well) and we can start developing our website using Django and Python3.
+
+Once you have downloaded this folder, cd into the installation directory and run the following commands to get your website up and running:
+
+python manage.py runserver
